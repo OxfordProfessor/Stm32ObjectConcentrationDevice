@@ -1,4 +1,4 @@
-## [基于树莓派OPENCV库与STM32F407的云台色彩跟踪系统](https://github.com/ZimoLoveShuang/auto-submit/tree/ruoli)
+## [基于树莓派OPENCV库与STM32F407的云台色彩跟踪系统](https://github.com/OxfordProfessor/Stm32ObjectConcentrationDevice)
 作者：张凯洋
 
 本程序是基于STM32F407芯片FreeRTOS操作系统设计的云台色彩追踪系统，采用树莓派，外置摄像头，视觉处理部分采用OPENCV库处理。
